@@ -1,0 +1,21 @@
+		****It is a simple Game to improve your typing efficiency**** 
+
+Following are key objectives:
+> number of correct keystrokes
+> number of incorrect keystrokes
+> time taken for each correct keystroke
+> total uptime taken for the practice
+> calculate successful key press percentage
+
+so in total pretty good mathematical functions are used behind the scene;
+
+UI will be developed using Angular and will be aligned with this project
+use some pretty good BG and data should be popped in a clean fashion;
+
+
+To Do:
+> Design the code base and backend for the system neatly;
+> Login Data should be secured with Authentication protocol or APIs used in Market for sign in
+> check possibilities for single sign on and all;
+> May be later the project should be converted to Spring maven or Gradle based, to use their ease and features;
+> The same project can be developed using different logics, so implement it in different ways;
